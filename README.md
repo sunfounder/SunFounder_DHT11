@@ -4,6 +4,7 @@ DHT11
 Quick Links:
 
  * [About DHT11](#about_this_module)
+ * [Usage](#usage)
  * [Update](#update)
  * [About SunFounder](#about_sunfounder)
  * [License](#license)
@@ -11,7 +12,17 @@ Quick Links:
 
 <a id="about_this_module"></a>
 ### About DHT11:
-This script simply test a DHT11 humiture sensor from SunFounder. It reads both humidy and temperature. Enjoy.
+This script simply test a DHT11 humiture sensor on Raspberry Pi. It reads both humidy and temperature. Enjoy.
+
+<a id="usage"></a>
+### Usage:
+Clone the repo:
+
+	git clone https://github.com/sunfounder/SunFounder_DHT11.git
+	cd SunFounder_DHT11
+Run example:
+
+	python dht11.py
 
 <a id="update"></a>
 ### Update:
